@@ -1,0 +1,14 @@
+/Users/shahshreyansh/DotNet/PracticeApp/bin/Debug/net10.0/PracticeApp
+/Users/shahshreyansh/DotNet/PracticeApp/bin/Debug/net10.0/PracticeApp.deps.json
+/Users/shahshreyansh/DotNet/PracticeApp/bin/Debug/net10.0/PracticeApp.runtimeconfig.json
+/Users/shahshreyansh/DotNet/PracticeApp/bin/Debug/net10.0/PracticeApp.dll
+/Users/shahshreyansh/DotNet/PracticeApp/bin/Debug/net10.0/PracticeApp.pdb
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.AssemblyInfoInputs.cache
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.AssemblyInfo.cs
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.csproj.CoreCompileInputs.cache
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.dll
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/refint/PracticeApp.dll
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.pdb
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/PracticeApp.genruntimeconfig.cache
+/Users/shahshreyansh/DotNet/PracticeApp/obj/Debug/net10.0/ref/PracticeApp.dll
